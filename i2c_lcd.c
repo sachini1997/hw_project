@@ -6,7 +6,7 @@
  *
  * Home: http://www.serasidis.gr
  * e-mail: avrsite@yahoo.gr, info@serasidis.gr
- *;
+ *
  */ 
 
 
@@ -135,15 +135,6 @@ void lcd_goto_xy(uint8_t x, uint8_t y)
 	}
 	// set data address
 	lcd_sendCommand(1<<7 | RAMAddr);	
-}
-
-//=================================================================
-// Displays LCD cursor
-//=================================================================
-void lcd_puts_at(const char* str, uint8_t x, uint8_t y)
-{
-	lcd_goto_xy(x, y);
-	lcd_puts(str);
 }
 
 //=================================================================
