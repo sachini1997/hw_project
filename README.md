@@ -1,3 +1,1 @@
-# hw_project
-1st year project code
-adventure supportive device
+# hw_project 1st year project codes and libraries (adventure supportive device)
