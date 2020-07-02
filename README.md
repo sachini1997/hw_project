@@ -1,1 +1,1 @@
-# ------------hw_project 1st year project codes, libraries and technologies used (adventure supportive device)--for better-----------
+# ------------hw_project 1st year project codes, libraries and technologies used (adventure supportive device)-----
